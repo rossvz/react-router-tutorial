@@ -7,7 +7,7 @@
     "watch": "webpack -d --watch",
     "build": "webpack",
     "serve": "node_modules/.bin/serve -p 4000 ./public",
-    "start": "nodemon"
+    "start": "node index.js"
   },
   "author": "Christian Nwamba",
   "license": "MIT",
